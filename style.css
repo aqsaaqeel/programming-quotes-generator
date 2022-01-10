@@ -4,9 +4,6 @@
     box-sizing : border-box;
     font-family: 'Poppins', sans-serif;
 }
-h1{justify-content: center;
-    display:flex;
-
 }
 body {
     display: flex;
