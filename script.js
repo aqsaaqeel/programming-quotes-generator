@@ -3,7 +3,7 @@ var authorName = document.querySelector(".author-name");
 var quoteButton = document.querySelector(".quote-btn");
 
 function getQuote(){
-    fetch("http://quotes.stormconsultancy.co.uk/random.json")
+    fetch("https://quotes.stormconsultancy.co.uk/random.json")
     .then((res) => {
         return res.json();
     })
