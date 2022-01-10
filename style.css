@@ -3,6 +3,7 @@
     padding: 0;
     box-sizing : border-box;
     font-family: 'Poppins', sans-serif;
+}
 
 body {
     display: flex;
@@ -23,7 +24,7 @@ body {
     flex-direction: column;
 }
 
-.author {
+.author-name {
     margin-top: 1em;
 }
 
